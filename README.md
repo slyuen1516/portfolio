@@ -1,2 +1,2 @@
 # portfolio
-An Astute Data Analyst
+A Data Analyst
